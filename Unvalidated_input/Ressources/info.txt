@@ -1,0 +1,4 @@
+1. curl -d "sujet=2&valeur=100" -X POST "10.11.200.231/index.php?page=survey#"
+
+-d : data
+-X : type request

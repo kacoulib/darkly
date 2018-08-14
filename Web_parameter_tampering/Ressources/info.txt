@@ -1,0 +1,2 @@
+1. Inspect element
+2. Change email's value of hidden input
